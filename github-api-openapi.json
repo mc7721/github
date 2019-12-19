@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "GitHub API",
+        "description": "GitHub is a web-based hosting service for software development projects that use the Git revision control system.",
+        "termsOfService": "http:\/\/help.github.com\/terms-of-service\/"
+    },
+    "servers": [
+        "httpsapi.github.com\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
