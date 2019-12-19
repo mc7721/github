@@ -1,0 +1,95 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "GitHub GraphQL",
+        "description": "How people build software<p>Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies. You must currently be enrolled in the [Early Access programme](https:\/\/github.com\/prerelease\/agreement) to use this API. See [more example queries](https:\/\/github.com\/github\/platform-samples\/tree\/master\/graphql\/queries).",
+        "termsOfService": "https:\/\/help.github.com\/articles\/github-terms-of-service\/#b-api-terms"
+    },
+    "servers": [
+        "http:\/\/api.github.com\/"
+    ],
+    "paths": {
+        "\/graphql": {
+            "post": {
+                "summary": "Submit GraphQL query",
+                "description": "You can make a GraphQL query by issuing a <b>POST<\/b> request with a JSON payload. The payload must have a string called <b>query<\/b>, and may optionally have a <b>variables<\/b> object. If the <b>query<\/b> parameter contains multiple queries, the <b>operationName<\/b> parameter must be sent to indicate which query to execute.",
+                "operationId": "PostQuery",
+                "deprecated": 0,
+                "parameters": []
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Query": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "description": "",
+                        "type": "string"
+                    },
+                    "variables": {
+                        "description": "",
+                        "type": "object"
+                    },
+                    "operationName": {
+                        "description": "",
+                        "type": "string"
+                    }
+                }
+            },
+            "variables": {
+                "type": "object"
+            },
+            "Response": {
+                "type": "object",
+                "properties": {
+                    "data": {
+                        "description": "The returned data",
+                        "type": "object"
+                    },
+                    "errors": {
+                        "description": "",
+                        "type": "array"
+                    }
+                }
+            },
+            "data": {
+                "type": "object"
+            },
+            "errors": {
+                "type": "array"
+            },
+            "Error": {
+                "type": "object",
+                "properties": {
+                    "message": {
+                        "description": "",
+                        "type": "string"
+                    },
+                    "locations": {
+                        "description": "",
+                        "type": "array"
+                    }
+                }
+            },
+            "locations": {
+                "type": "array"
+            },
+            "Location": {
+                "type": "object",
+                "properties": {
+                    "line": {
+                        "description": "",
+                        "type": "integer"
+                    },
+                    "column": {
+                        "description": "",
+                        "type": "integer"
+                    }
+                }
+            }
+        }
+    }
+}
