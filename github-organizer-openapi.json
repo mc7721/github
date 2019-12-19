@@ -1,0 +1,151 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "GitHub Organizer",
+        "description": "Manage repo issues and comments in your GitHub account.",
+        "termsOfService": "http:\/\/exmple.com\/license\/"
+    },
+    "servers": [
+        "http:\/\/api.github.com\/"
+    ],
+    "paths": {
+        "\/repos\/{owner}\/{repo}\/issues\/{number}\/comments": {
+            "parameters": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": []
+            },
+            "post": {
+                "summary": "Create Comment",
+                "description": "",
+                "operationId": "POSTReposOwnerRepoIssuesNumberComments",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "201": {
+                        "description": ""
+                    }
+                }
+            },
+            "get": {
+                "summary": "Get Issue Comments",
+                "description": "",
+                "operationId": "GETReposOwnerRepoIssuesNumberComments",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    }
+                }
+            }
+        },
+        "\/repos\/{owner}\/{repo}\/issues": {
+            "parameters": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": []
+            },
+            "get": {
+                "summary": "Get Repo Issues",
+                "description": "",
+                "operationId": "GETReposOwnerRepoIssues",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    }
+                }
+            },
+            "post": {
+                "summary": "Create Issue",
+                "description": "",
+                "operationId": "POSTReposOwnerRepoIssues",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "201": {
+                        "description": ""
+                    }
+                }
+            }
+        },
+        "\/repos\/{owner}\/{repo}\/issues\/{number}": {
+            "parameters": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": []
+            },
+            "patch": {
+                "summary": "Edit Issue",
+                "description": "",
+                "operationId": "PATCHReposOwnerRepoIssuesNumber",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    }
+                }
+            }
+        },
+        "\/repos\/{owner}\/{repo}\/issues\/comments\/{id}": {
+            "parameters": {
+                "summary": "",
+                "description": "",
+                "operationId": "",
+                "deprecated": 0,
+                "parameters": []
+            },
+            "patch": {
+                "summary": "Edit Comment",
+                "description": "",
+                "operationId": "PATCHReposOwnerRepoIssuesCommentsId",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    }
+                }
+            },
+            "delete": {
+                "summary": "Delete Comment",
+                "description": "",
+                "operationId": "DELETEReposOwnerRepoIssuesCommentsId",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "204": {
+                        "description": "Deleted"
+                    }
+                }
+            }
+        },
+        "\/user\/repos": {
+            "get": {
+                "summary": "Get Repos",
+                "description": "",
+                "operationId": "GETUserRepos",
+                "deprecated": 0,
+                "parameters": [],
+                "responses": {
+                    "200": {
+                        "description": ""
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": []
+    }
+}
