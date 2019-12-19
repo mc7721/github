@@ -1,0 +1,311 @@
+{
+    "name": "GitHub",
+    "description": "GitHub brings together the world\u2019s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we\u2019re your all-in-one platform for collaborative development.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "change log example",
+        "coding",
+        "developers",
+        "general data",
+        "have api",
+        "have swagger",
+        "historical data api",
+        "imports",
+        "issue management",
+        "issues",
+        "management",
+        "pedestal",
+        "programming",
+        "relative data",
+        "social",
+        "streams",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/github\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GitHub",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/github.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "GitHub Organizer",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/github-organizer.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-organizer-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-organizer-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "GithubApi",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/githubapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/githubapi-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/githubapi-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "GitHub GraphQL",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/github-graphql.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-graphql-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-graphql-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "GitHub API v3",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/github-api-v3.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-api-v3-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-api-v3-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "GitHub API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/github-logo.png",
+            "humanURL": "https:\/\/github.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/github-api.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/github-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": ".NET LIbrary",
+            "url": "https:\/\/github.com\/octokit\/octokit.net"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.github.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/github.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/github.com\/blog\/subscribe"
+        },
+        {
+            "type": "Change Logs",
+            "url": "https:\/\/developer.github.com\/changes\/"
+        },
+        {
+            "type": "Contact Form",
+            "url": "https:\/\/github.com\/contact"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/github"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/github"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.github.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/github"
+        },
+        {
+            "type": "Guides",
+            "url": "https:\/\/developer.github.com\/guides\/"
+        },
+        {
+            "type": "iOS SDK",
+            "url": "https:\/\/github.com\/octokit\/octokit.objc"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-26-23.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-31-36.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-03-17-57-32.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-06-42-32.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-01-06-21.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-01-06-27.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-02-54-42.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-25-32.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-25-47.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-25-54.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-03-08-29-23.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-26-01.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-03-08-29-27.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/140-2019-09-04-08-26-08.json"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/github.com\/pricing"
+        },
+        {
+            "type": "Privacy",
+            "url": "http:\/\/help.github.com\/privacy-policy\/"
+        },
+        {
+            "type": "Ruby Library",
+            "url": "https:\/\/github.com\/octokit\/octokit.rb"
+        },
+        {
+            "type": "Security",
+            "url": "http:\/\/help.github.com\/security\/"
+        },
+        {
+            "type": "Status",
+            "url": "https:\/\/status.github.com\/"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "http:\/\/help.github.com\/terms-of-service\/"
+        },
+        {
+            "type": "Transparency Report",
+            "url": "https:\/\/blog.github.com\/2018-05-11-2017-transparency-report\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/github"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/developer.github.com\/webhooks\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/github.com"
+        }
+    ]
+}
