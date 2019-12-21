@@ -1,5 +1,5 @@
 {
-    "id": "2d96bf1a71e3ba580131d1f72271aff1",
+    "id": "0f2e6db3df549057749a47f40cca761a",
     "name": "GitHub API v3",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "ef5122c4225c0e37eac5a9ddd1233778",
+            "id": "b26ec88a85e3f1e28095fea5f63b0e0c",
             "name": "List public repositories for the specified user.",
             "url": "http:\/\/api.github.com\/\/users\/{username}\/repos",
             "description": "",
@@ -58,7 +58,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "2d96bf1a71e3ba580131d1f72271aff1",
+            "collectionId": "0f2e6db3df549057749a47f40cca761a",
             "rawModeData": ""
         }
     ]
