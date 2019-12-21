@@ -1,5 +1,5 @@
 {
-    "id": "0526f78cfde4f6ead51ce25969feb038",
+    "id": "844fedd9a7527ea32bb0347ba8f8f1c6",
     "name": "GitHub Organizer",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "ad919427fd15ba1e9a83d4e629a71fe0",
+            "id": "4e7de59b4fc4f5e4da923f386ac5ca1a",
             "name": "",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/{number}\/comments",
             "description": "",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "e1f02244b31e61dcd510ecb7cfb2e11a",
+            "id": "b77a55eabc97b5ecada84e5c57ac76c6",
             "name": "Create Comment",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/{number}\/comments",
             "description": "",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "b5c6948cf1e19a2f455e66cad0505554",
+            "id": "9efd7f218d1240463c9f811af43d8904",
             "name": "Get Issue Comments",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/{number}\/comments",
             "description": "",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "78157df65d6f9e9bde4bb7fb625c589c",
+            "id": "1f0d6d93d52f24674d1eb501a4cf9ba0",
             "name": "",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues",
             "description": "",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "b3aff996c7d091797bbf3450ad62e3fb",
+            "id": "83f98b939a7200d9998656230612b870",
             "name": "Get Repo Issues",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues",
             "description": "",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "02cee81cd13232d88df9d161130faf9e",
+            "id": "0ebeb1bfef55396b72df8b1786fac5de",
             "name": "Create Issue",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues",
             "description": "",
@@ -144,11 +144,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "a1432664f32e7772bce8985178de6366",
+            "id": "53d2dfc12858069a71c3e80801597007",
             "name": "",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/{number}",
             "description": "",
@@ -167,11 +167,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "7c776a2f467d7868cd8949390117cd62",
+            "id": "56372cb971a175a8ba8583fab26e03a4",
             "name": "Edit Issue",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/{number}",
             "description": "",
@@ -190,11 +190,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "ebb09febf89c3fb6a4fed0d602a0f57d",
+            "id": "aab90e62d2b973098814a2aa751cea25",
             "name": "",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/comments\/{id}",
             "description": "",
@@ -213,11 +213,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "cccc293d2acca059522b98f27f5a2e50",
+            "id": "30c8fe11bd279eff0165c6aa78a2b4fc",
             "name": "Edit Comment",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/comments\/{id}",
             "description": "",
@@ -236,11 +236,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "ce2be503626d93dfd37d0c576532d30b",
+            "id": "ce695f00e429c803504743d1097acfc0",
             "name": "Delete Comment",
             "url": "http:\/\/api.github.com\/\/repos\/{owner}\/{repo}\/issues\/comments\/{id}",
             "description": "",
@@ -259,11 +259,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         },
         {
-            "id": "258c4b54a60cd095df7de7b201bb3ab1",
+            "id": "58088f7e966baff500c7d5ea7a89fd6d",
             "name": "Get Repos",
             "url": "http:\/\/api.github.com\/\/user\/repos",
             "description": "",
@@ -282,7 +282,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "0526f78cfde4f6ead51ce25969feb038",
+            "collectionId": "844fedd9a7527ea32bb0347ba8f8f1c6",
             "rawModeData": ""
         }
     ]
