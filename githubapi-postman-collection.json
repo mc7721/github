@@ -1,5 +1,5 @@
 {
-    "id": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+    "id": "7fecdd4a8ef15478437c4978fd8367b0",
     "name": "GithubApi",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "4288dedccb8f37784546167c9ddf554d",
+            "id": "5c4c6dfad1d193be2ef4d4b96cae4f02",
             "name": "",
             "url": "http:\/\/api.github.com\/\/search\/users",
             "description": "",
@@ -65,11 +65,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "67c62fb910a80bd37d373dc1354fca1d",
+            "id": "edfe153143731bc65171a1dd58498a46",
             "name": "",
             "url": "http:\/\/api.github.com\/\/users\/{user}\/repos",
             "description": "",
@@ -88,11 +88,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "b8e610d5a7ac89de93b8a2851fd5446c",
+            "id": "f8948f030476b953ac18952d9225f3b4",
             "name": "",
             "url": "http:\/\/api.github.com\/\/users\/{user}\/repos",
             "description": "",
@@ -140,11 +140,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "0d7fdfee71f7c28bd0aaca5b639e7f4c",
+            "id": "9ad6bbe05220a77205f04451a95ec8b3",
             "name": "",
             "url": "http:\/\/api.github.com\/\/users\/{user}",
             "description": "",
@@ -163,11 +163,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "afd9e1454668b3d52eaf0cce2baef6f2",
+            "id": "4487a7c5f7ea57da50db0d0d8afe6860",
             "name": "user_url",
             "url": "http:\/\/api.github.com\/\/users\/{user}",
             "description": "",
@@ -186,11 +186,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "fd3efa6a0cab6e39b0c22f2274723f30",
+            "id": "8246c2058a29add1e683dfa044dc50fc",
             "name": "",
             "url": "http:\/\/api.github.com\/\/search\/code",
             "description": "",
@@ -252,11 +252,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         },
         {
-            "id": "d15ffa1a7ee6b3d53ff503dcf555f1be",
+            "id": "c92359b1945d178601742dfc8eecab43",
             "name": "",
             "url": "http:\/\/api.github.com\/\/user",
             "description": "",
@@ -283,7 +283,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "21d90e7e728a1ac3dbd08eeb2a2ffcf9",
+            "collectionId": "7fecdd4a8ef15478437c4978fd8367b0",
             "rawModeData": ""
         }
     ]
