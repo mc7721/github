@@ -1,5 +1,5 @@
 {
-    "id": "775e1b08b075153cedf5634eb7b4ebbe",
+    "id": "d759e72e179361dd3ea5cea9c835edff",
     "name": "GitHub GraphQL",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "9b647cbca81f2f0b3a423f61b8d20391",
+            "id": "c8b00d1ca87d087bc6b55eaff9ceba1b",
             "name": "Submit GraphQL query",
             "url": "http:\/\/api.github.com\/\/graphql",
             "description": "You can make a GraphQL query by issuing a <b>POST<\/b> request with a JSON payload. The payload must have a string called <b>query<\/b>, and may optionally have a <b>variables<\/b> object. If the <b>query<\/b> parameter contains multiple queries, the <b>operationName<\/b> parameter must be sent to indicate which query to execute.",
@@ -29,7 +29,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "775e1b08b075153cedf5634eb7b4ebbe",
+            "collectionId": "d759e72e179361dd3ea5cea9c835edff",
             "rawModeData": ""
         }
     ]
